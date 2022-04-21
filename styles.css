@@ -1,0 +1,193 @@
+body {
+    background: #FFC79E;
+    padding: 100px;
+}
+
+#email {
+    position: absolute;
+    width: 310px;
+    height: 41px;
+    left: 230px;
+    top: 293px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.42);
+    box-sizing: border-box;
+    border-radius: 50px;
+    text-indent: 10px;
+}
+
+#password {
+    position: absolute;
+    width: 310px;
+    height: 41px;
+    left: 230px;
+    top: 378px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.42);
+    box-sizing: border-box;
+    border-radius: 50px;
+    text-indent: 10px;
+}
+
+#user {
+    position: absolute;
+    width: 85px;
+    height: 20px;
+    left: 246px;
+    top: 269px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    color: rgba(0, 0, 0, 0.68);
+}
+
+#pass {
+    /* Password */
+
+    position: absolute;
+    width: 79px;
+    height: 20px;
+    left: 246px;
+    top: 354px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    color: rgba(0, 0, 0, 0.68);
+
+
+}
+
+#head1 {
+    position: absolute;
+    width: 259px;
+    height: 22px;
+    left: 249px;
+    top: 215px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+#forget {
+    /* Forgot Password? */
+
+    position: absolute;
+    width: 147px;
+    height: 20px;
+    left: 246px;
+    top: 423px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    color: rgba(0, 0, 0, 0.68);
+
+}
+
+#Login {
+    /* Rectangle 11 */
+
+    position: absolute;
+    width: 131px;
+    height: 38px;
+    left: 328px;
+    top: 466px;
+
+    background: #FF7B1B;
+    border-radius: 50px;
+}
+
+#dont {
+
+    position: absolute;
+    width: 216px;
+    height: 22px;
+    left: 216px;
+    top: 547px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+#create {
+    position: absolute;
+    width: 136px;
+    height: 40px;
+    /* left: 443px; */
+    /* top: 3px; */
+
+    border: 2px solid #FF6C00;
+    box-sizing: border-box;
+    border-radius: 50px;
+    text-align: center;
+    font-size :14px;
+    padding: 5px;
+
+}
+
+
+
+.image1 {
+    position: absolute;
+    width: 182px;
+    height: 54px;
+    left: 304px;
+    top: 140px;
+}
+
+#box1 {
+    /* position: absolute; */
+    width: 610px;
+    height: 582px;
+    left: 130px;
+    top: 69px;
+
+    background: #FFFFFF;
+}
+
+#box2 {
+
+    position: absolute;
+    width: 610px;
+    height: 582px;
+    left: 718px;
+    top: 108px;
+    background: linear-gradient(270deg, #FFF5ED -0.06%, #FFF5ED 100%);
+
+}
+
+#image2 {
+    /* position: absolute; */
+    width: 260px;
+    height: 260px;
+    left: 765px;
+    top: 244px;
+    padding: 25%;
+
+}

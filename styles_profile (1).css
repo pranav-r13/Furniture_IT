@@ -1,0 +1,119 @@
+#image1 {
+    position: absolute;
+    width: 142.92px;
+    height: 142.92px;
+    left: 115.41px;
+    top: 125.9px;
+
+    background: url(image.png);
+}
+
+#roombox {
+    position: absolute;
+    width: 449.67px;
+    height: 182.02px;
+    left: 160.45px;
+    top: 394.33px;
+
+    background: #F5F5F5;
+    border-radius: 13.4833px;
+}
+
+#box1 {
+    /* position: absolute; */
+    width: 610px;
+    height: 582px;
+    left: 130px;
+    top: 69px;
+
+    background: #FFFFFF;
+}
+
+@font-face {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Product Sans'), local('ProductSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: Product Sans;
+    /* background-color: #FFD0AD; */
+
+}
+
+.navbar {
+    display: flex;
+    align-items: right;
+    padding: 20px;
+}
+
+nav {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+p {
+    color: #000000;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.header .row {
+    margin-top: 30 px;
+    margin-left: 30px;
+}
+
+.visit {
+    display: flex;
+    position: absolute;
+
+}
+
+visit {
+    flex: 1;
+    text-align: right;
+}
+
+visit ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+visit ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+visit ul li button {
+    width: 70.45px;
+    height: 28.9px;
+    border: 1.20421px solid #FF7B1B;
+    box-sizing: border-box;
+    border-radius: 30.1053px;
+}
